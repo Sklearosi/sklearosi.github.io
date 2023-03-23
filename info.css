@@ -1,0 +1,25 @@
+.standarts-div {
+    padding-top: 50px;
+    width: 100%;
+    text-align: center;
+}
+
+.standarts {
+    font-weight: lighter;
+    letter-spacing: 3px;
+    padding-bottom: 20px;
+    padding-top: 50px;
+    text-align: center;
+}
+
+.standarts-img {
+    width: 80%;
+    margin: 0 auto;
+    
+}
+
+.company {
+    background-color: aquamarine;
+    padding: 30px;
+    letter-spacing: 1px;
+}
